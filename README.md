@@ -1,4 +1,4 @@
-![RPLACSE Banner](https://raw.githubusercontent.com/your-username/Rust-Programing-Language-and-Computer-Science-Education-Repository/main/images/banner.jpeg)
+![RPLACSE Banner](https://raw.githubusercontent.com/your-username/Rust-Programing-Language-and-Computer-Science-Education-Repository/main/images/banner.jpg)
 
 # Rust-Programing-Language-Education
 
