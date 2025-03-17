@@ -1,3 +1,5 @@
+![RPLACSE Banner](https://raw.githubusercontent.com/your-username/Rust-Programing-Language-and-Computer-Science-Education-Repository/main/images/banner.jpeg)
+
 # Rust-Programing-Language-Education
 
 This Repository is for the sole purpose of being a place to show, share and converse about my journey of education of the Rust Programing Language as well as Computer Science.  Enclosed you will find projects, examples, findings and research for the express purpose of improving understanding of Computer Science and the must Programing Language.
@@ -40,7 +42,17 @@ This Repository is for the sole purpose of being a place to show, share and conv
 - 🚀 **Master Rust fundamentals** through applied learning.  
 - 🛠️ **Build projects** to reinforce theoretical concepts.  
 - 📖 **Document my journey** in an accessible, structured format.  
-- 🔄 **Iterate and improve** based on new insights and discoveries.  
+- 🔄 **Iterate and improve** based on new insights and discoveries.
+
+## 🏆 **Rubric: Project Naming & Taxonomy**  
+
+To maintain **consistency** and **searchability**, associative projects using **Git submodules** will adopt the **acronym** of this repository:  
+
+### **📛 RPLACSE: Rust Programming Language and Computer Science Education**  
+
+- **🔍 Purpose:** This acronym (**RPLACSE**) serves as a unique tag for Rust projects focused on **learning** and **education**.  
+- **🏷️ Use Case:** It helps categorize and locate **educational Rust projects** within the ecosystem.  
+- **🤝 Community Adoption:** Fellow learners, feel free to use **[RPLACSE]** as a taxonomy tag for your own Rust-based educational projects!  
 
 ## 🤝 Contributions  
 
