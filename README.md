@@ -1,6 +1,6 @@
+# The Rust Programing Language
+*A educational journey by Elijah Offutt*
 ![RPLACSE Banner](https://raw.githubusercontent.com/ElijahOffutt/Rust-Programing-Language-and-Computer-Science-Education-Repository/refs/heads/main/images/Banner.jpg)
-
-# Rust-Programing-Language-Education
 
 This Repository is for the sole purpose of being a place to show, share and converse about my journey of education of the Rust Programing Language as well as Computer Science.  Enclosed you will find projects, examples, findings and research for the express purpose of improving understanding of Computer Science and the Rust Programing Language.
 
